@@ -10,9 +10,9 @@ include('includes/header.html');
 <p>This is a page about me and the projects that I am working on.</p>
 <img src="img/Ryan1.jpg" alt="This is me." style="width: 50%; height 50%;">
 
-<p>My name is Ryan Guelzo. I am currently a student at Green River College, pursuing my
-    degree in Software Development. Please check the links above to see what I have worked on
-    and am working on currently.</p>
+<p>My name is Ryan and I am a student at Green River College. I’m looking to become your new software developer and
+    improve things with my training with Agile and Scrum. I am great at keeping people on task and informed while
+    putting out the best product possible.</p>
 <p>Thanks for stopping by!</p>
 <p>There is also a link to my LinkedIn account at the bottom of the page.</p>
 <?php
