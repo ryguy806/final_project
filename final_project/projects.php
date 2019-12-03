@@ -23,6 +23,10 @@ include('includes/header.html');
     <h3>Text-Adventure Game</h3>
     <p>I began working on a short text adventure game in python that ran for about 3 levels. I then rewrote it in Java
     for ease of use. The game is available to be played, but is still incomplete.</p>
+    <h2>Web Crawler</h2>
+    <p>This was a homework assignment for my Data Structures class. It was a fun project that really pushed me to my
+        limits at the time. It made us handle threads as well as managing multiple classes at the same time using queues
+        and stacks.</p>
 </div>
     
     
