@@ -14,8 +14,13 @@ include('includes/header.html');
 and keeping teams up to date?</p>
 
 <p>My name is Ryan and I am a student at Green River College. I’m looking to become your new software developer and
-    improve things with my training with Agile and Scrum. I am great at keeping people on task and informed while
-    putting out the best possible product.</p>
+    improve things with my training with Agile and Scrum. I work well on teams and on my own, making tasks that I take
+    on fun. I am great at keeping people on task and informed while putting out the best possible product.
+
+<h2>HONOR COURAGE COMMITMENT</h2>
+<p>These are the core values that I live by. I learned them while serving in the NAVY and I still keep to them today.</p>
+
+
 <p>Thanks for stopping by!</p>
 <p>There is also a link to my LinkedIn account at the bottom of the page where you can contact me.</p>
 
